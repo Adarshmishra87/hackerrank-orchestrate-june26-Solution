@@ -1,0 +1,9 @@
+requirement_id,claim_object,applies_to,minimum_image_evidence
+req_001,car,dent,"1 clear image of damaged part"
+req_002,car,scratch,"1 close-up image"
+req_003,car,crack,"1 clear windshield image"
+req_004,laptop,crack,"1 clear screen image"
+req_005,laptop,broken_part,"1 hinge or corner image"
+req_006,package,crushed_packaging,"1 image of box corner"
+req_007,package,torn_packaging,"1 image of seal area"
+req_008,package,water_damage,"1 image of wet surface"

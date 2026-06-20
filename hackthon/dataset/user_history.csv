@@ -1,0 +1,6 @@
+user_id,past_claim_count,accept_claim,manual_review_claim,rejected_claim,last_90_days_claim_count,history_flags,history_summary
+user_001,2,1,0,1,1,none,"One rejected claim in past"
+user_002,1,1,0,0,0,none,"Clean history"
+user_003,3,2,1,0,2,none,"Some manual reviews"
+user_004,0,0,0,0,0,none,"New user"
+user_005,5,1,2,2,3,user_history_risk,"Multiple rejected claims"
